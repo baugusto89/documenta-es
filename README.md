@@ -22,7 +22,7 @@ Este procedimento operacional padrão (POP) descreve o processo para adicionar n
 1. Abrir o navegador.
 2. Acessar o portal do ChatGPT:
 
-   https://chatgpt.com/
+   https://chatgpt.com/admin/members
 
 3. Realizar login utilizando:
    - Usuário

@@ -89,6 +89,7 @@ Este Procedimento Operacional Padrão (POP) descreve o processo para adicionar n
 | Versão | Data | Descrição |
 |---|---|---|
 | 1.0 | 2026-05-15 | Criação do POP para Claude Code Business |
+| 1.1 | 2026-05-15 | Atualiza link do portal para https://platform.claude.com/settings/members |
 
 ---
 

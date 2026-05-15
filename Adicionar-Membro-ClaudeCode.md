@@ -22,7 +22,7 @@ Este Procedimento Operacional Padrão (POP) descreve o processo para adicionar n
 1. Abrir o navegador.
 2. Acessar o portal do Claude Business (substituir pelo URL correto da sua organização):
 
-   https://claude.ai/business
+   https://platform.claude.com/settings/members
 
 3. Realizar login com credenciais administrativas.
 
